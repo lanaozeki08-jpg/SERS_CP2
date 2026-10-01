@@ -35,9 +35,3 @@ O repositório possui a solução prática para a análise e modelagem preditiva
 * **Melhor Modelo:** O **Random Forest Regressor** obteve o menor erro absoluto (MAE) e o maior coeficiente de determinação (R²).
 * **Conclusão:** A inclusão da variável `hora` foi o fator crítico para o sucesso do modelo, permitindo capturar o formato de parábola (curva não-linear) que a radiação solar faz ao longo do dia, impedindo que o modelo confunda calor do final de tarde com sol forte.
 * **Fonte:** [Historical Weather API — Open-Meteo](https://open-meteo.com)
-
----
-
-## 🔗 Fontes dos Dados
-* Dados de Geração: [SIGA — ANEEL](https://aneel.gov.br)
-* Dados Meteorológicos: [Historical Weather API — Open-Meteo](https://open-meteo.com)
